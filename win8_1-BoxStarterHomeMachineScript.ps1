@@ -15,6 +15,8 @@ cinstm GoogleChrome
 
 # Other tools
 cinstm git
+cinstm poshgit
+cinstm git-credential-winstore
 cinstm notepadplusplus
 cinstm 7zip
 cinst winrar
